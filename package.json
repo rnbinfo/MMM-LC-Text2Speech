@@ -1,0 +1,13 @@
+{
+	"name": "MMM-LC-Text2Speech",
+	"version": "1.0.0",
+	"description": "Todo: Insert description here!",
+	"main": "hello.js",
+	"author": "pudfi",
+	"license": "MIT",
+	"dependencies": {
+		"fs": "^0.0.1-security",
+		"@google-cloud/text-to-speech": "^4.2.1",
+		"sox-play": "^0.0.2"
+	}
+}
